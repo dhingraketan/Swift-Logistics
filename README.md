@@ -1,5 +1,5 @@
 ﻿# Swift Logistics
-> Canada-wide logistical corporation
+> Canada-wide logistical corporation project
 
 ## Table of Contents
 * [General Info](#general-information)
