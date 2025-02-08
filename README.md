@@ -25,6 +25,7 @@ express shipping.
 
 
 ## Technologies Used
+- ReactJS
 - PHP
 - MySQL
 - HTML
